@@ -1,0 +1,21 @@
+:root {
+    --primario: #1f87c4;
+}
+
+body {
+    background-image: url(../img/cielo.jpg);
+    background-attachment: fixed;
+}
+
+#logo {
+    background: var(--primario);
+}
+
+#menu ul li:hover {
+    background: var(--primario);
+}
+
+
+.button-more {
+    background: var(--primario);
+}

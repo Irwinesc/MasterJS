@@ -1,0 +1,21 @@
+:root {
+    --primario: #ca3413;
+}
+
+body {
+    background-image: url(../img/rojo.jpg);
+    background-attachment: fixed;
+}
+
+#logo {
+    background: var(--primario);
+}
+
+#menu ul li:hover {
+    background: var(--primario);
+}
+
+
+.button-more {
+    background: var(--primario);
+}
